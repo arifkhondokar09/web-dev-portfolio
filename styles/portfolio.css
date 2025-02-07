@@ -349,5 +349,26 @@ width: 350px;
 
 .banner-title, .banner-description{padding: 20px;}
 
+nav {
+  display: flex
+;
+  /* align-items: center; */
+  /* justify-content: space-between; */
+  /* margin: 20px 150px; */
+  flex-direction: column;
+}
 
+
+nav ul {
+    display: flex
+;
+    /* align-items: center; */
+    flex-direction: column;
+}
+
+nav ul li {
+  list-style: none;
+  /* margin-right: 50px; */
+  margin: 5px;
+}
 }
