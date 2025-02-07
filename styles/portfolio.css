@@ -294,10 +294,6 @@ height: 60px;
  
 }
 
-/* small media query */
-
-.hide{display: none;}
-
 
 @media screen and (max-width:576px){
 
